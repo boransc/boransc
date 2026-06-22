@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boran</h1>
+<h1 align="center">Hi👋 I'm Boran</h1>
 
 <h3 align="center">Software Engineer & AI/ML Enthusiast | MSc AI Student @ Queen Mary University</h3>
 <p align="center">Building intelligent systems and scalable software solutions. Passionate about machine learning, backend development, and creating tech that solves real-world problems.</p>
