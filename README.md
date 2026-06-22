@@ -24,7 +24,7 @@
 
 ### AI/ML & Data Science
 
-<p align="left">
+<p align="left" style="background-color: rgba(255,255,255,0.05); padding: 10px; border-radius: 5px; display: inline-block;">
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
@@ -44,7 +44,7 @@
 
 ### Programming Languages
 
-<p align="left">
+<p align="left" style="background-color: rgba(255,255,255,0.05); padding: 10px; border-radius: 5px; display: inline-block;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -64,7 +64,7 @@
 
 ### Tools & Platforms
 
-<p align="left">
+<p align="left" style="background-color: rgba(255,255,255,0.05); padding: 10px; border-radius: 5px; display: inline-block;">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
